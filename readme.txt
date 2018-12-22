@@ -1,1 +1,0 @@
-scoreboard assignment in BUPT
